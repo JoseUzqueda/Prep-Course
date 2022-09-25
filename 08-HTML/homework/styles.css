@@ -1,0 +1,17 @@
+h1{
+    color:chocolate;
+}
+img{
+    width: 400px;
+}
+#thirDiv{
+    height: 600px;/*altura*/
+    width: 500px;/*ancho*/
+    background-color: black;/*fondo*/
+    padding: 50px; /*relleno*/
+    border: 10px solid red; /*borde (espesor-estilo-color)*/
+}
+#spanId{
+    font-size: 18px; /*tamaño de fuente*/
+    margin: 50px; /*margen en gral*/
+}
